@@ -4,5 +4,7 @@
 ![image](https://github.com/zengmmm00/travis-ci-tutorial-java/blob/master/se.png)
 
 # Answer
+
 a) Yes. It uses Travis CI.
+
 b) The jobs are assemble and check.
